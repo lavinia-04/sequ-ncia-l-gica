@@ -1,6 +1,6 @@
- # Sequência lógica: como preparar um bolo de chocolate 
+## Sequência lógica: como preparar um bolo de chocolate 
 
-Pedro foi ao supermercado e comprou ovos, leite, farinha, açúcar, manteiga e achocolatado em pó para fazer um bolo de chocolate. Como ele nunca fez um bolo antes, ele está bastante confuso e perdido. Auxilie Pedro construindo uma sequência lógica dos passos necessários para a preparação desse bolo. 
+**Pedro foi ao supermercado e comprou ovos, leite, farinha, açúcar, manteiga e achocolatado em pó para fazer um bolo de chocolate. Como ele nunca fez um bolo antes, ele está bastante confuso e perdido. Auxilie Pedro construindo uma sequência lógica dos passos necessários para a preparação desse bolo.**
 
 1 - Acenda o forno em 180 graus para ir aquecendo
 2 - Pegue uma forma
